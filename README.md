@@ -1,0 +1,2 @@
+# Competitiveness_calculation
+Расчет конкурентоспособности 
